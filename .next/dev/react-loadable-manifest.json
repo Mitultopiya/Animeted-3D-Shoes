@@ -1,0 +1,18 @@
+{
+  "../node_modules/@react-three/drei/core/VideoTexture.js -> hls.js": {
+    "id": "../node_modules/@react-three/drei/core/VideoTexture.js -> hls.js",
+    "files": []
+  },
+  "../node_modules/@react-three/drei/web/FaceLandmarker.js -> @mediapipe/tasks-vision": {
+    "id": "../node_modules/@react-three/drei/web/FaceLandmarker.js -> @mediapipe/tasks-vision",
+    "files": [
+      "static/chunks/_pages-dir-browser_node_modules_mediapipe_tasks-vision_vision_bundle_mjs.js"
+    ]
+  },
+  "pages/index.js -> @/components/grid/ShoeGrid": {
+    "id": "pages/index.js -> @/components/grid/ShoeGrid",
+    "files": [
+      "static/chunks/_pages-dir-browser_src_components_grid_ShoeGrid_jsx.js"
+    ]
+  }
+}
